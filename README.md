@@ -1,4 +1,4 @@
-I'm a web designer & developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
+I'm a <b> web designer </b> & <b> developer </b> focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
 I don't like to define myself by the work i've done. I define myself by the work i want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do intresting things that matter.
 I am known for my passion for building great producuts, ability to learn quickly, being a good team player and excellent listener.
 
