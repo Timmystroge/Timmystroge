@@ -6,5 +6,5 @@ I have excellent skills and i am also intrested in learning, cause learning brin
 I've got everything you need to lunch and grow your business
 
 <hr>
-===> Timmystroge <br>
-===> Tm Technology
+ Timmystroge <br>
+ Tm Technology
