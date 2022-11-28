@@ -98,14 +98,32 @@ I am known for my passion for building great producuts, ability to learn quickly
   </a>
 </p>
 
+<br/>
+
+<h3> ✔ Application & Tools </h3>
+<p align="left">
+  &emsp;
+     <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+   &emsp;
+     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+   &emsp;
+     <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+   &emsp;
+     <img alt="xammp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  
+   &emsp;
+     <img alt="microsoftword" src="https://img.shields.io/badge/Microsoft_Word-217346?style=for-the-badge&logo=microsoft-word&logoColor=white">
+ 
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3> ✔ Get In Touch</h3> 
+<h2>Get In Touch</h2>
 
 <a href="https://www.instagram.com/timmystroge_" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.facebook.com/" target="_blank">
+ <a href="https://www.linkedin.com/in/oyetola-oluwatimileyin-b63392221" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
 </a>
