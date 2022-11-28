@@ -79,7 +79,7 @@ I am known for my passion for building great producuts, ability to learn quickly
     <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/nodejs/nodejs_npm.asp">
+  <a href="https://www.w3schools.com/nodejs/nodejs_npm.asp/">
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
 </p>
@@ -93,7 +93,7 @@ I am known for my passion for building great producuts, ability to learn quickly
      <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
    &emsp;
-  <a href="https://www.mysql.com/" target="_blank"> 
+  <a href="https://firebase.google.com/" target="_blank"> 
      <img alt="firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white">
   </a>
 </p>
