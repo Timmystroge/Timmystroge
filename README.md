@@ -109,7 +109,7 @@ I am known for my passion for building great producuts, ability to learn quickly
 <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
 </a>
- <a href="https://www.facebook.com/timmystroge75" target="_blank">
+ <a href="https://twitter.com/timmystroge" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-00B2FF?style=for-the-badge&logo=twitter&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
 
