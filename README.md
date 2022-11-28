@@ -11,7 +11,7 @@
 I am known for my passion for building great producuts, ability to learn quickly, being a good team player and excellent listener. I have excellent skills and i am also intrested in learning, cause learning brings growth, and when i learn i grow, and i get to reach my goal.</p>
 <hr>
 <br/>
-<h3>Streak Stats</h3>
+<h3> ✔ Streak Stats</h3>
 <p align="center"><img src="https://streak-stats.demolab.com?user=TimmyStroge&theme=algolia" alt="Timmystroge"  /></p>
 <hr/>
 
@@ -25,10 +25,6 @@ I am known for my passion for building great producuts, ability to learn quickly
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://www.w3schools.com/js" target="_blank"> 
@@ -43,8 +39,10 @@ I am known for my passion for building great producuts, ability to learn quickly
     <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
 </p>
+
 <br/>
-<h3>👉Frameworks </h3>
+
+<h3> ✔ Frameworks </h3>
 <p align="left">
   &emsp;
   <a href="https://www.w3schools.com/react/" target="_blank"> 
@@ -67,14 +65,15 @@ I am known for my passion for building great producuts, ability to learn quickly
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
 </p>
+
 <br/>
-<h3>👉Database </h3>
+
+<h3> ✔ Database </h3>
 <p align="left">
   &emsp;
   <a href="https://www.mysql.com/" target="_blank"> 
      <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
- 
 </p>
 
 
