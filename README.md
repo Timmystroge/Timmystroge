@@ -6,14 +6,17 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Software+Engineer;Web+Designer&center=true&width=500&height=50"></a>
 </p>
-<hr>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p>I'm a <b> Fullstack Web Developer </b> focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do intresting things that matter.
 I am known for my passion for building great producuts, ability to learn quickly, being a good team player and excellent listener. I have excellent skills and i am also intrested in learning, cause learning brings growth, and when i learn i grow, and i get to reach my goal.</p>
 <hr>
 <br/>
 <h3> ✔ Streak Stats</h3>
 <p align="center"><img src="https://streak-stats.demolab.com?user=TimmyStroge&theme=algolia" alt="Timmystroge"  /></p>
-<hr/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>My Skills</h2>
 <h3> ✔ Languages</h3>
@@ -82,7 +85,6 @@ I am known for my passion for building great producuts, ability to learn quickly
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<hr>
 <ul>
  <li>Timmystroge <br></li>
  <li>Tm Technology</li>
