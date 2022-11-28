@@ -76,7 +76,7 @@ I am known for my passion for building great producuts, ability to learn quickly
   </a>
    &emsp;
   <a href="https://www.mysql.com/" target="_blank"> 
-     <img alt="firebase" src="https://img.shields.io/badge/firease-38B2AC?style=for-the-badge&logo=firebase&logoColor=white">
+     <img alt="firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white">
   </a>
 </p>
 
