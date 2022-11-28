@@ -102,14 +102,14 @@ I am known for my passion for building great producuts, ability to learn quickly
 
 <h3> ✔ Get In Touch</h3> 
 
-<a href="https://www.instagram.com/anuj_kesharwani_/" target="_blank">
+<a href="https://www.instagram.com/timmystroge_" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
+ <a href="https://www.facebook.com/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
 </a>
- <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
+ <a href="https://www.facebook.com/timmystroge75" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-00B2FF?style=for-the-badge&logo=twitter&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
 
