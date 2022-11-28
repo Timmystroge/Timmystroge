@@ -5,3 +5,6 @@ I am known for my passion for building great producuts, ability to learn quickly
 I have excellent skills and i am also intrested in learning, cause learning brings growth, and when i learn i grow, and i get to reach my goal and Achieve clients satisfaction.
 I've got everything you need to lunch and grow your business
 
+<hr>
+===> Timmystroge <br>
+===> Tm Technology
