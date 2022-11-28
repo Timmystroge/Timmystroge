@@ -16,7 +16,7 @@ I am known for my passion for building great producuts, ability to learn quickly
 <hr/>
 
 <h2>My Skills</h2>
-<h3>Languages</h3>
+<h3> ✔ Languages</h3>
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -73,6 +73,10 @@ I am known for my passion for building great producuts, ability to learn quickly
   &emsp;
   <a href="https://www.mysql.com/" target="_blank"> 
      <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+   &emsp;
+  <a href="https://www.mysql.com/" target="_blank"> 
+     <img alt="firebase" src="https://img.shields.io/badge/firease-38B2AC?style=for-the-badge&logo=firebase&logoColor=white">
   </a>
 </p>
 
