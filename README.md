@@ -16,7 +16,8 @@ I have excellent skills and i am also intrested in learning, cause learning brin
 <h3>Streak Stats</h3>
 <p align="center"><img src="https://streak-stats.demolab.com?user=TimmyStroge&theme=algolia" alt="Timmystroge"  /></p>
 <hr/>
-<h3> My Skills</h3>
+
+<h2>My Skills</h2>
 <h3>Languages</h3>
 <p align="left"> 
   &emsp; 
@@ -44,7 +45,7 @@ I have excellent skills and i am also intrested in learning, cause learning brin
     <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
 </p>
-<br/><br/>
+<br/>
 <h3>👉Frameworks </h3>
 <p align="left">
   &emsp;
@@ -68,7 +69,7 @@ I have excellent skills and i am also intrested in learning, cause learning brin
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
 </p>
-<br/><br/>
+<br/>
 <h3>👉Database </h3>
 <p align="left">
   &emsp;
