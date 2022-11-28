@@ -15,7 +15,7 @@ I am known for my passion for building great producuts, ability to learn quickly
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br/>
-<h2>My Skills</h2>
+<h2>Stats</h2>
 <!-- <p align="center"><img src="https://streak-stats.demolab.com?user=TimmyStroge&theme=algolia" alt="Timmystroge"  /></p> -->
 <p align="center">
   <a href="https://github.com/Timmystroge">
