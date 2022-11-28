@@ -1,4 +1,8 @@
-<h3>Hi, I'm Tim<span style="color: red;">m</span>y.</h3>
+<h1 align="center">Hi , I'm Oluwatimileyin Oyetola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;Graphic%20Designer;Web+Designer&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 I'm a <b> web designer </b> & <b> developer </b> focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
 I don't like to define myself by the work i've done. I define myself by the work i want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do intresting things that matter.
 I am known for my passion for building great producuts, ability to learn quickly, being a good team player and excellent listener.
