@@ -9,8 +9,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p>I'm a <b> Fullstack Web Developer </b> focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do intresting things that matter.
-I am known for my passion for building great producuts, ability to learn quickly, being a good team player and excellent listener. I have excellent skills and i am also intrested in learning, cause learning brings growth, and when i learn i grow, and i get to reach my goal.</p>
+<p>I'm a <b> Fullstack Web Developer </b> focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me. Skills can be taught, But personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matters.
+I am known for my passion for building great products, ability to learn quickly, being a good team player and excellent listener. I have excellent skills and i am also intrested in learning, cause learning brings growth, and when i learn i grow, and i get to reach my goal.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
