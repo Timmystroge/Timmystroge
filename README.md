@@ -20,7 +20,7 @@ Known for my adaptability, quick learning, and strong communication, I consisten
 <h3 align="center">Get In Touch</h3>
 <br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/oyetola-oluwatimileyin-b63392221" target="_blank" >
+  <a href="https://www.linkedin.com/in/oluwatimileyin-oyetola-b63392221" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"  style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.instagram.com/timmystroge_" target="_blank">
