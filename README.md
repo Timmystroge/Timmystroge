@@ -16,7 +16,7 @@ While technical skills can be developed, I believe that a commitment to excellen
 
 Known for my adaptability, quick learning, and strong communication, I consistently deliver results while fostering a growth mindset. I am dedicated to personal and professional development, knowing that growth through learning leads to meaningful achievements and impactful contributions.
 </p>
-<p>I thrive on solving complex challenges, collaborating with diverse teams, and building products that make a difference. Known for my adaptability, quick learning, and strong communication, I consistently deliver results while fostering a growth mindset. I am dedicated to ongoing personal and professional development, knowing that growth through learning leads to meaningful achievements.</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
