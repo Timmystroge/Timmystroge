@@ -1,6 +1,6 @@
 <h3>Hi there 👋, I'm Timmy</h3>
 
-I'm a Frontend Engineer with over 3 years of experience, specializing in building fast, accessible, and user-centric web applications. I have a proven track record of serving clients, turning complex problems into elegant, high-performance digital experiences with a focus on a clean and intuitive UI.
+I'm a Frontend Developer with over 3 years of experience, specializing in building fast, accessible, and user-centric web applications. I have a proven track record of serving clients, turning complex problems into elegant, high-performance digital experiences with a focus on a clean and intuitive UI.
 
 ---
 
@@ -46,3 +46,4 @@ I'm a Frontend Engineer with over 3 years of experience, specializing in buildin
   </a>
   <!-- Add other links like Twitter, etc. if you have them -->
 </p>
+
